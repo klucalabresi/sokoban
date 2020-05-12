@@ -10,9 +10,10 @@ Boxes cannot be pulled, and they cannot be pushed to squares with walls or other
 The number of boxes equals the number of storage locations. The puzzle is solved when all boxes are placed at storage locations.
 
 References:
-# | Wall
-$ | Box
-@ | Player
-. | Objective
-* | Objective + Box
-+ | Objective + Player
+
+'#' | Wall
+'$' | Box
+'@' | Player
+'.' | Objective
+'*' | Objective + Box
+'+' | Objective + Player
